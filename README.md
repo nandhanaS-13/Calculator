@@ -12,4 +12,5 @@ How to Use: -->Clone this repository to your local machine.
 
 preview: Calculator:
 
+![calculator](https://github.com/nandhanaS-13/Calculator/assets/141173282/f9f3e4c0-6f5b-4650-9eaf-88000b7725ed)
 
